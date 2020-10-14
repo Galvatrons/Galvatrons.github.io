@@ -1,0 +1,8 @@
+$ git remote add origin https://github.com/Galvatrons/Galvatrons.github.io.git
+拉取
+$  git push -u origin master
+
+重置
+git remote rm origin
+
+
